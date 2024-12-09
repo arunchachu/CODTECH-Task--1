@@ -1,9 +1,9 @@
 **Name:** ARUN KA ADHISH K J                                                                                                                                               
 **Company:** CODTECH ID SOLUTIONS                                                                                                                                       
-**ID:** CT08DS9540
-**Domain:** C PROGRAMMING
-**Duration:**  NOVEMBER 25th, 2024 to DECEMBER 25th, 2024
-**Mentor:** NEELA SANTHOSH KUMAR
+**ID:** CT08DS9540                                                                                                                                                       
+**Domain:** C PROGRAMMING                                                                                                                                                   
+**Duration:**  NOVEMBER 25th, 2024 to DECEMBER 25th, 2024                                                                                                                   
+**Mentor:** NEELA SANTHOSH KUMAR                                                                                                                                             
 
 
 
