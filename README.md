@@ -29,7 +29,8 @@ The objective of this project is to develop an interactive quiz game to test use
 - **Console Output:**- Utilizing printf to display questions, options, feedback, and the final score to the user.                                                           
 
 
-
+**output:![Screenshot (18)](https://github.com/user-attachments/assets/4adfd91a-c335-4e3a-85b4-ef96ba57320e)
+** 
 
 
 
