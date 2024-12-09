@@ -19,14 +19,14 @@ The objective of this project is to develop an interactive quiz game to test use
 ### key activites                                                                                                                                                           
 
 - **Questionnaire Design:**- Create a set of multiple-choice questions covering various general knowledge topics.                                                            
--**User Interaction:**- Implement input handling to capture user responses and provide immediate feedback on their answers.                                                  
--**Score Evaluation:**- Track the user's score and display personalized feedback based on their performance.                                                              
+- **User Interaction:**- Implement input handling to capture user responses and provide immediate feedback on their answers.                                                  
+- **Score Evaluation:**- Track the user's score and display personalized feedback based on their performance.                                                              
 
 ### technique used                                                                                                                                                      
 
-**Input Handling:** Using scanf to capture user inputs for selecting quiz answers.                                                                                         
-**Conditional Logic:** Applying if statements to check the correctness of answers and update the score.                                                                    
-**Console Output:** Utilizing printf to display questions, options, feedback, and the final score to the user.                                                           
+- **Input Handling:**- Using scanf to capture user inputs for selecting quiz answers.                                                                                         
+- **Conditional Logic:**- Applying if statements to check the correctness of answers and update the score.                                                                    
+- **Console Output:**- Utilizing printf to display questions, options, feedback, and the final score to the user.                                                           
 
 
 
